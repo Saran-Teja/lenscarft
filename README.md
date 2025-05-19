@@ -1,3 +1,3 @@
-# Lenscraft Automation Backend
+# Lenscraft Node.js Backend
 
-Handles GitHub commits and OpenAI-based code generation.
+Automates GitHub commits and OpenAI code generation via Vercel API routes.
